@@ -3,7 +3,7 @@ terraform {
 
 variable "modular_string" {
   type = string
-  default = "hello, world."
+  default = "hello, world!"
 }
 
 output "print_statement" {
